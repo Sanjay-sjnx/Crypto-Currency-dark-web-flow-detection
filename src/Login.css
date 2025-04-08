@@ -1,0 +1,77 @@
+/* Login.css */
+.login-container {
+  max-width: 300px;
+  margin: 45vh auto 0;  
+  padding: 50px;
+  width: 50vw;
+  height:50vh;
+  align-items: center;
+  border: 0.5px solid #8a2be2;  /* Changed border to be thinner and purple */
+  border-radius: 1px;  /* Reduced from 8px for smaller appearance */
+  box-shadow: 0 0 8px #2a023b;  /* Reduced shadow spread */
+  background-color: #8a2be2;
+  text-decoration-color: #2a023b;
+  transform: translateY(-50%);
+  position: relative;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 15px;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2b1f55;
+  }
+  .input1{
+    background-color: white;
+  }
+  .input2{
+    background-color: white;
+  }
+  /* div{
+    background-color: #55186f; */
+  
+   /*Login.css*/
+  
